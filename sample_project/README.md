@@ -1,4 +1,4 @@
-# Purdue-platzi Black IronHacks 2017
+# Purdue-Platzi Black IronHacks 2017
 
 ### Introduction   
 

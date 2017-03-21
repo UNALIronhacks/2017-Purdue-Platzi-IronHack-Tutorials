@@ -116,9 +116,9 @@ Please make sure that you also include very descriptive readme file when you com
 An example submission of a mashup has been completed to get you started (but you do not have to use it). It can be found via the following link. In this example submission, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
 
 - **[Dev Process](sample_project)** -- This is a example submission of a mashup. Please keep in mind that is NOT related to your challenge question in the Purdue-UNAL Gold IronHacks <br>
-- **[Demo of Example Project](https://rawgit.com/blackironhack/2017-Purdue-Platzi-IronHack-Tutorials/master/sample_project/2017-Purdue-Platzi-IronHacks-Tutorial-Project.html)**
+- **[Demo of Example Project](http://rawgit.com/blackironhack/2017-Purdue-Platzi-IronHack-Tutorials/master/sample_project/2017-Purdue-Platzi-IronHacks-Tutorial-Project.html)**
 
-###4. Virtual Tutoring Sessions
+### 4. Virtual Tutoring Sessions
 
 Please feel free to post question on our forum. For more information, please check www.ironhacks.com
 

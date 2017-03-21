@@ -181,5 +181,5 @@ This is a tutorial project for Ironhacks. *__Please note that the topic for this
 
    Once the solution is completed, try to asses it with the parameters that were given and improve it as much as you can. Test it out with different test cases and on different browsers.
 
-   You can find a working demo of this tutorial [here](https://rawgit.com/blackironhack/2017-Purdue-Platzi-IronHack-Tutorials/master/sample_project/2017-Purdue-Platzi-IronHacks-Tutorial-Project.html).
+   You can find a working demo of this tutorial [here](http://rawgit.com/blackironhack/2017-Purdue-Platzi-IronHack-Tutorials/master/sample_project/2017-Purdue-Platzi-IronHacks-Tutorial-Project.html).
    Good luck!

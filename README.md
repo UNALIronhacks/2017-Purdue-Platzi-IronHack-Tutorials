@@ -3,7 +3,7 @@
 Welcome to Purdue-Platzi Black IronHacks 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on April 18th, 2017. 
 
 ## Session 1 
-<!--- <i><small>(please complete before April 3rd)</small></i> -->
+<i><small>(please complete before April 3rd)</small></i>
 
 **[Presentation](https://drive.google.com/open?id=1sjZ7yVoA8M6EfXRO4h6GFP1okMIr7p5Lpackdnl8n3E)** -- Slides for Session 1
 ### HTML
@@ -33,7 +33,7 @@ You are required to submit code to our system using GitHub. <br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
 ## Session 2 
-<!--- <small><i>(please complete before April 10th)</i></small> -->
+<small><i>(please complete before April 10th)</i></small> 
 
 **[Presentation](https://drive.google.com/open?id=1xUv4yT7R2p2yTVoSPS5-doPx6DvBAZrDcvqupxrAHSI)** -- Slides for Session 2
 
@@ -55,7 +55,7 @@ Please follow along these videos to complete the sample projects on Javascript &
 **[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3 
-<!--- <small><i>(please complete before April 17th)</i></small> -->
+<small><i>(please complete before April 17th)</i></small> 
 
 **[Presentation](https://drive.google.com/open?id=1lNHrUUyLdcfl8Mo5BYv1_XlG9UBxfwl_z0GNYqgRc0M)** -- Slides for Session 3
 
@@ -86,7 +86,7 @@ Please follow along these videos to complete the sample projects on d3
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
 **[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Official tutorial for Google Map API<br>
 
-## Additional information to get ready for the hack
+## Additional information to get ready for the hack that starts on April 18th, 2017
 <!--- ## Additional information to get ready for the hack that starts on April 18th, 2017 -->
 
 Purdue-Platzi Black IronHacks 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). 

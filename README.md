@@ -99,11 +99,10 @@ Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
 
 Pick one additional open data set relevant for a challenge focused on the City Chicago:
-- **[50OPENDATASETS](https://www.dropbox.com/s/tpi9q8u88otuc7k/Chicagohousingrental.docx?dl=0)** -- 50 relevant datastes
+- **[50OPENDATASETS](https://www.dropbox.com/s/6lalw2o175t15lp/verified%20datasets.docx?dl=0)** -- 50 relevant datastes
 
 If you want to learn more about the sources of this data:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
-- **[data.cityof.chicago.gov](https://data.cityofchicago.org/)** -- Official site of the City of Chicago for open data
 
 You can read more about these datasets [here](Datasets.md)
 

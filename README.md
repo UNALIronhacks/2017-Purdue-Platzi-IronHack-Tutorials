@@ -99,7 +99,7 @@ The IRONHACKS rules require that you use at least TWO open data sets in your pro
 Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
 
-Pick one additional open data set relevant for a challenge focused on the City Chicago:
+Pick one additional open data set relevant for a challenge focused on the New York City:
 - **[50OPENDATASETS](https://www.dropbox.com/s/6lalw2o175t15lp/verified%20datasets.docx?dl=0)** -- 50 relevant datastes
 
 If you want to learn more about the sources of this data:
